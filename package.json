@@ -1,0 +1,19 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "using express js and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "expressjs"
+  ],
+  "author": "Asikur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
